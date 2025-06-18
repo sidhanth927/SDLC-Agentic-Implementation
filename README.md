@@ -92,16 +92,12 @@ When prompted, paste the requirements above or press Ctrl+D to use the built-in 
 
 ```
 output/
-├── ecommerce_platform_user_stories.md      # 8-10 detailed user stories
-├── ecommerce_platform_functional_spec.md   # Comprehensive functional spec
-├── ecommerce_platform_technical_spec.md    # Detailed technical architecture
-├── ecommerce_platform_app.py              # Main Flask application
-├── ecommerce_platform_models.py           # Database models
-├── ecommerce_platform_config.py           # Configuration management
-├── ecommerce_platform_requirements.txt    # Dependencies
-├── ecommerce_platform_test_cases.py       # Comprehensive tests
-├── ecommerce_platform_README.md           # Complete documentation
-└── ecommerce_platform_SUMMARY.md          # Process summary
+  └── ecommerce_platform/
+      ├── code/
+      ├── docs/
+      ├── tests/
+      ├── config/
+      └── src/
 ```
 
 ## 🎯 Efficient Showcase Strategy
