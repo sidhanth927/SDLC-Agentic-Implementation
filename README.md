@@ -170,7 +170,7 @@ MAX_TOKENS = {
 }
 ```
 
-## 📈 Quality Improvements in v2.0
+## 📈 Quality Improvements
 
 1. **Enhanced Prompts**: More specific, role-based prompting for each agent
 2. **Better Validation**: Content quality checks with automatic fallbacks
