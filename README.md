@@ -1,4 +1,4 @@
-# Multi-Agent SDLC Automation Framework v2.0
+# Multi-Agent SDLC Automation Framework
 
 A comprehensive agent-based Generative AI framework for automating the Software Development Life Cycle (SDLC) using open-source LLMs via Hugging Face Transformers. **Now with enhanced AI agents and improved output quality!**
 
@@ -36,7 +36,7 @@ python main.py --interactive
 1. **Clone the repository:**
 ```bash
 git clone <repository-url>
-cd "MCP Vertical Agent 2.0"
+cd "MCP Vertical Agent"
 ```
 
 2. **Install dependencies:**
@@ -264,3 +264,4 @@ CUDA_VISIBLE_DEVICES="" python main.py
 ---
 
 *Generate complete applications in minutes, not weeks. Experience the future of software development automation.*
+
